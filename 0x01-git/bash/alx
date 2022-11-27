@@ -1,2 +1,6 @@
 #!/bin/bash
-ALX school is so cool!~/Desktop/alx-pre_course/0x01-git/bash ls 
+<<<<<<< HEAD
+ALX school is so cool!
+********
+ALX school
+>>>>>>> update_script
